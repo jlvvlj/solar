@@ -1,2 +1,6 @@
 .env
 keypairs-history.json
+node_modules
+
+src/.env
+src/keypairs-history.json
